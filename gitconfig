@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = elb.toufik@gmail.com
+	name = Toufik Elbouamri
